@@ -1,7 +1,7 @@
 # War-of-the-Kingdoms
 game project
 
-he Purpose of the game:
+the purpose of the game:
 
 War between two castles, enemies come from the enemy's castle and the goal is 
 
