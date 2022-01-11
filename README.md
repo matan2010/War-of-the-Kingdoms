@@ -2,7 +2,7 @@
 game project
 
 
-the purpose of the game:
+## the purpose of the game:
 
 War between two castles, enemies come from the enemy's castle and the goal is 
 
@@ -12,7 +12,7 @@ one should also consider the money we have.
 
 
 
-algorithm:
+## algorithm:
 
 The enemy algorithm is BFS from their starting point to the end point in the second castle,
 
